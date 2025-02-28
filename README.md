@@ -2,18 +2,16 @@
 3.29.0 - Flutter SDK
 3.7.0 - (Flutter)Dart SDK
 ## Flutter commands
-
-### Flutter pub get
+Below two commands should use to run the project
+### 1 Flutter pub get
 
 flutter pub get
 
-### Flutter clean
-
-flutter clean
-
-### Flutter build Runner
+### 2 Flutter build Runner
 
 dart run build_runner build --delete-conflicting-outputs      // Use only in project root folder //
+
+
 
 ### Build APK - RELEASE
 
