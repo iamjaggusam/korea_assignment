@@ -1,0 +1,112 @@
+{
+    "data" : [
+      {
+        "viewType": "slider",
+        "items": [{
+          "key": 1,
+          "image": "assets/images/slider1.png"
+        },
+          {
+          "key": 2,
+          "image": "assets/images/slider2.png"
+        },
+        {
+            "key": 3,
+            "image": "assets/images/slider3.png"
+          },
+            {
+            "key": 4,
+            "image": "assets/images/slider4.png"
+          }]
+      },
+      {
+        "viewType": "products",
+        "title": "리뷰️  랭킹⭐ top 3",
+        "subTitle":"제일 핫한 리뷰를 만나보세요",
+        "items": [
+            {
+              "key": 1,
+          "image": "assets/images/product1.png",
+              "title": "LG전자 스탠바이미 27ART10AKPL (스탠",
+              "description": "화면을 이동할 수 있고 전환도 편리하다는 점이 제일 마음에 들었어요. 배송도 빠르고 친절하게 받을 수 있어서 좋았습니다.",
+              "rating": {
+                "start": "4.89",
+                "count": "216"
+              },
+              "brand":{
+                "name": "LG전자",
+                "model": "편리성"
+              }
+            },
+          {
+              "key": 2,
+          "image": "assets/images/product2.png",
+              "title": "LG전자  울트라HD 75UP8300KNA (스탠드)",
+              "description": "화면 잘 나오고... 리모컨 기능 좋습니다.",
+              "rating": {
+                "start": "4.36",
+                "count": "136"
+              },
+              "brand":{
+                "name": "LG전자",
+                "model": "고화질"
+              }
+            },
+            {
+                "key": 3,
+            "image": "assets/images/product3.png",
+                "title": "라익미 스마트 DS4001L NETRANGE (스탠드)GX30K WIN10 (SSD 256GB)",
+                "description": "반응속도 및 화질이나 여러면에서도 부족함을  느끼기에는 커녕 이정도에 이 정도 성능이면차고 넘칠만 합니다",
+                "rating": {
+                  "start": "3.98",
+                  "count": "98"
+                },
+                "brand":{
+                  "name": "라익미",
+                  "model": "가성비"
+                }
+              }
+          
+        ]
+      },
+      {
+        "viewType": "members",
+        "title": "베스트 리뷰어 🏆 Top10",
+        "subTitle":"골드 계급 사용자들이예요",
+        "items": [
+            {
+              "key": 1,
+          "image": "assets/images/cat1.png",
+              "title": "Name01"
+              
+            },
+          {
+              "key": 2,
+          "image": "assets/images/cat2.png",
+              "title": "Name02"
+            
+            },
+            {
+              "key": 3,
+          "image": "assets/images/cat3.png",
+              "title": "Name03"
+              
+            },
+          {
+              "key": 4,
+          "image": "assets/images/cat4.png",
+              "title": "Name06"
+            
+            },
+            {
+              "key": 5,
+          "image": "assets/images/cat5.png",
+              "title": "Name05"
+              
+            }
+         
+          
+        ]
+      }
+    ]
+  }

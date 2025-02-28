@@ -1,0 +1,2 @@
+/Users/jaggusam/Documents/Work/test_project_korea/android/app/.cxx/RelWithDebInfo/g1me405j/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/jaggusam/Documents/Work/test_project_korea/android/app/.cxx/RelWithDebInfo/g1me405j/armeabi-v7a/CMakeFiles/rebuild_cache.dir
